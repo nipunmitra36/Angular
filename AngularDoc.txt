@@ -1,0 +1,22 @@
+1. Setup Angular your PC
+------------------------
+CMD:
+-npm install -g @angular/cli [Note: Install angular]
+-ng new projectName --no-standalone [Note: Create your project]
+-ng serve [Note: Run your project]
+
+
+
+2. How to create component?
+---------------------------
+CMD:
+-ng generate component components/header [Note: components/header folder]
+-or
+-ng g c components/header[Note: components/header folder]
+
+
+2. How to install bootstrap in angular?
+---------------------------------------
+CMD:
+-npm install bootstrap@5 --save[Note: After download check node modules folder and add angular.json file build group]
+
